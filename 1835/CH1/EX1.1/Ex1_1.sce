@@ -1,7 +1,9 @@
 //CHAPTER 1 ILLUSRTATION 1 PAGE NO 15
 //TITLE:Basic kinematics
 //Figure 1.14
-test code for test content for testing 2
+//Figure 1.14
+test code 
+clc
 clc
 clear
 pi=3.141
